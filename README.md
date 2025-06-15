@@ -55,7 +55,7 @@
 3. Create a `.env` file in the `backend` folder and add your environment variables (Firebase service account, Cloudinary keys, etc.).
 4. Start the backend server:
     ```
-    npm start
+    node server.js
     ```
     *(or your backend start command)*
 
